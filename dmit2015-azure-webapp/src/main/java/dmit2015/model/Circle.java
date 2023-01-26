@@ -1,7 +1,15 @@
 package dmit2015.model;
 
-public class Circle {
+/**
+ * this class model is a Circle shape.
+ * @author Louisa Luo
+ * @version 2023.01.20
+ */
 
+public class Circle {
+    /**
+     * the radius of this circle
+     */
     private double radius;
 
     public double getRadius() {
@@ -33,6 +41,12 @@ public class Circle {
         //this.radius = radius;
         setRadius(radius);
     }
+
+    /**
+     * compute and return the area of this cicle
+     *     @return area of this circle
+     */
+
 
     public double area()
     {

@@ -1,4 +1,4 @@
-package dmit.model;
+package dmit2015.model;
 // this class models a Retangle shape
 // @author Louisa
 // @version 2023.01.20
