@@ -16,6 +16,7 @@ Youtube
 <img src="/QrCodeImageGeneratorServlet?url=https://www.youtube.com" alt="Youtube">
 
 <h2>QR Code Generator</h2>
+// if we change to "get" request, the parameter will be included in the URL
 <form method="post" action="/QrCodeImageGeneratorServlet">
     <div>
         <label for="url">URL for QrCode</label>
